@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getNombreCompleto()
+comment1.params=
+comment1.target=java.lang.String\ getActivarEscudo()
+comment2.params=enemigo
+comment2.target=void\ escudo(Participante)
+comment3.params=
+comment3.target=int\ danioMenosTanque()
+comment4.params=
+comment4.target=int\ danioMenosAvion()
+comment5.params=
+comment5.target=int\ danioMenosSoldado()
+comment6.params=enemigo
+comment6.target=void\ disparar(Participante)
+comment7.params=
+comment7.target=int\ danioParaTanque()
+comment8.params=
+comment8.target=int\ danioParaAvion()
+comment9.params=
+comment9.target=int\ danioParaSoldado()
+numComments=10
